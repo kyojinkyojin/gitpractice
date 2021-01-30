@@ -1,0 +1,22 @@
+
+html {
+    font-size: 10px;
+}
+
+body  {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+.header {
+    font-size: 5rem;
+    color: white;
+    position: relative;
+}
+
+.external-link {
+    font-size: 1.6rem;
+    color: aquamarine;
+    position: relative;
+}
