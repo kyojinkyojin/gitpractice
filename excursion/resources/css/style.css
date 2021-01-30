@@ -6,17 +6,36 @@ html {
 body  {
     background-color: black;
     text-align: center;
-    font-family: Verdana, sans-serif;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
 }
 
 .header {
     font-size: 5rem;
     color: white;
     position: relative;
+    font-family: Verdana;
+    font-weight: normal;
 }
 
-.external-link {
+.external-link a{
     font-size: 1.6rem;
     color: aquamarine;
-    position: relative;
+}
+
+.content {
+    text-align: center;
+
+}
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 4.2rem;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+
+}
+
+.content p{
+    font-size: 2.1rem;
+    color: grey;
+
 }
